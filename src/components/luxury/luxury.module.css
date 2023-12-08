@@ -1,0 +1,43 @@
+.container1{
+display: flex;
+width: 88%;
+padding: 120px 112.5px 240px 112.5px;
+justify-content: center;
+align-items: center;
+background: #FFF5F8;
+
+
+}
+
+.sol{
+    display: flex;
+height: 270.49px;
+padding: 0px;
+padding-right: 5em;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 50px;
+margin-top: 3em;
+}
+
+.navio{
+ display: flex;
+height: 270.49px;
+padding: 0px 40px 0.003px 40px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 50px;
+padding-right: 5em;
+}
+
+.carteira{
+display: flex;
+height: 270.49px;
+padding: 0px 40px 0.003px 40px;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 50px;
+}

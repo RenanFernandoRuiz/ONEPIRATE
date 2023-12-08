@@ -1,0 +1,21 @@
+
+.tudo{
+    background: #000;
+    height: 50em;
+
+    
+}
+.imagemzinha img {
+
+    width: 100%;
+    object-fit: cover;
+    height: 50em;
+   
+    
+}
+.titlezin{
+    margin-top: -38em;
+    display: flex;
+    justify-content: center; /* Centraliza horizontalmente */
+  align-items: center; 
+}

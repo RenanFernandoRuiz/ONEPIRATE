@@ -1,0 +1,44 @@
+.ofertas {
+  display: flex;
+  align-items: center;
+  position: relative;
+  justify-content: center;
+  height: 490px;
+  margin-bottom: 5em;
+}
+
+.bolas {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* margin-right: -25em; */
+  z-index: 4;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 25%;
+}
+.casaimg {
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin-right: 20%;
+  z-index: 5;
+  margin-bottom: 2%;
+}
+
+.recieve {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 80px;
+  background: #ffc071;
+  width: 40em;
+  height: 24em;
+  z-index: 3;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  margin-left: 15%;
+}
